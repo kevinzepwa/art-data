@@ -1,0 +1,53 @@
+{
+  "data" : [
+    {
+      "id": 1,
+      "name": "Big Buddha",
+      "image": "https://images.unsplash.com/photo-1594664459714-93a363f99acd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "price": "3000000",
+      "description": "The statue is at Wat Tham Sua Temple in Kanchanaburi Province"
+    },
+    {
+      "id": 2,
+      "name": "Tmidonnia",
+      "image": "https://images.unsplash.com/photo-1539975611936-f0d1221cfd16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGFydCUyMHBob3Rvc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+      "price": "45000",
+      "description": "Ordinary drink of grapes"
+    },
+    {
+      "id": 3,
+      "name": "Efe ele whit",
+      "image": "https://images.unsplash.com/photo-1500462918059-b1a0cb512f1d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "price": "35500",
+      "description": "An Editorial, Arts & Culture Wallpapers at the modern art center"
+    },
+    {
+      "id": 4,
+      "name": "Flamingo jam",
+      "image": "https://images.unsplash.com/photo-1532490389938-2856e3f1560a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+      "price": "1000",
+      "description": "The Naivasha flamingo art by mukusi"
+    },
+    {
+      "id": 4,
+      "name": "Palace of Versailles",
+      "image": "hhttps://images.unsplash.com/flagged/photo-1572392640988-ba48d1a74457?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
+      "price": "55000",
+      "description": "Michael Angelo's painting on top of the Palace of Versailles"
+    },
+    {
+      "id": 5,
+      "name": "The Cannon",
+      "image": "https://images.unsplash.com/photo-1582561424760-0321d75e81fa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDV8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "price": "1400",
+      "description": "Netherlands miltim Public Domain Rijksmuseum Provider"
+    },
+    {
+      "id": 6,
+      "name": "Phyllis and Demophoon",
+      "image": "https://images.unsplash.com/photo-1577083552765-cb4bc62c8ac0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=293&q=80",
+      "price": "1400",
+      "description": "The 1870 Phyllis and Demophoon done by Sir Edward Burne-Jones"
+    }
+  ]
+}
